@@ -1,7 +1,5 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://oasis-or-blur.onrender.com/)
+An image recognition model trained with Resnet50. Training data were collected from Google images(see fast.ai Practical Deep Learning for Coders Lesson 2). I'm a big fan of British rock, so I choosed pics of Liam Gallagher and Noel Gallagher from Oasis, Damon Albarn from Blur to feed the model.
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
-
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
-
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
+Screen Shot：(So Liam was the leader of Oasis, Lol)
+![image](http://github.com/tools-only/Oasis-or-Blur/master/screen shot.png)
